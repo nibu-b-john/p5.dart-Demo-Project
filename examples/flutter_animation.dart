@@ -85,5 +85,21 @@ class Polygon extends StatelessWidget {
   }
 }
 
+// vs
 
-//  fullscreen setup draw redraw background stroke strokeweight strokecap strokejoin nostroke fill nofill ellipse line point quad rect triangle beginshape vertex endshape translate rotate scale push pop mousepressed mousedragged mousereleased
+
+// import '../p5 library/p5.dart';
+// import 'package:flutter/material.dart';
+
+// class Sketch extends P5 {
+//   @override
+//   void setup() {
+// //    size(300, 300);
+//     fullScreen();
+//   }
+
+//   @override
+//   void draw() {
+//     polygon(250, 300, 50, 5);
+//   }
+// }

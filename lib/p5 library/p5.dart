@@ -443,3 +443,5 @@ class P5 extends ChangeNotifier implements CustomPainter {
     notifyListeners();
   }
 }
+
+//  fullscreen setup draw redraw background stroke strokeweight strokecap strokejoin nostroke fill nofill ellipse line point quad rect triangle beginshape vertex endshape translate rotate scale push pop mousepressed mousedragged mousereleased
